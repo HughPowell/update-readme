@@ -1,4 +1,4 @@
-(defproject update-readme "0.1.0-SNAPSHOT"
+(defproject update-readme "0.1.0"
   :description "Update the dependency version in the README.md file"
   :url "http://github.com/HughPowell/update-readme"
   :license {:name "Mozilla Public License v2.0"
