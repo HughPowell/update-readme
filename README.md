@@ -7,7 +7,7 @@ A Leiningen plugin to update versions of dependencies in the README.md file.
 
 ## Usage
 
-Put `[update-readme "0.1.0"]` into the `:plugins` vector of your project.clj.
+Put `[update-readme "0.1.1"]` into the `:plugins` vector of your project.clj.
 
 Basic usage as follows
 
