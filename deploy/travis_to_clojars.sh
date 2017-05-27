@@ -1,9 +1,9 @@
+#!/usr/bin/env bash
+
 # Copyright (c) 2017.
 # This Source Code Form is subject to the terms of the Mozilla Public
 # License, v. 2.0. If a copy of the MPL was not distributed with this
 # file, You can obtain one at http://mozilla.org/MPL/2.0/.
-
-#!/usr/bin/env bash
 
 if ! [[ $(git log -1 --pretty=%B) =~ ^Version\ [0-9]+\.[0-9]+\.[0-9]+-SNAPSHOT$ ]] ; then
 	echo "Deploying latest commit ..."
