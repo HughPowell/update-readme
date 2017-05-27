@@ -1,5 +1,7 @@
 # update-readme
 
+[![Build Status](https://travis-ci.org/HughPowell/update-readme.svg?branch=master)](https://travis-ci.org/HughPowell/update-readme)
+
 A Leiningen plugin to update versions of dependencies in the README.md file.
 
 ## Usage
